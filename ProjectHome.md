@@ -1,0 +1,3 @@
+Parent Guard, a comprehensive mobile application that allows a parent, or any other, to toggle a guard switch, only letting predetermined applications run.
+
+With powerful defensive code that automatically runs when the phone starts, it can NOT be stopped in any way without administrative authorization. No process-ending task-manager or package removal utility can shut it down. Nor is there any “close” button to speak of.
